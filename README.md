@@ -13,7 +13,7 @@
 * LaTex
 * R-Studio
 ## Goals and Ambitions 
-### I hope to be fulent in python by the end of this semester. I would like to be able to analze data and create visuals through Python code. 
+### I hope to be fulent in python by the end of this semester. I would like to be able to analyze data and create visuals through Python code. 
 ## Contact Me
 ### Email: mabbott3@nd.edu
 ### Linkedin: https://www.linkedin.com/in/margaret-abbott-808895262/
