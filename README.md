@@ -13,6 +13,7 @@
 * PowerBI
 * LaTex
 * R-Studio
+* SQL
 ## Goals and Ambitions 
 ### I hope to be fulent in python by the end of this semester. I would like to be able to analyze data and create visuals through Python code. 
 ## Contact Me
